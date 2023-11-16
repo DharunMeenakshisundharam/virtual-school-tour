@@ -1,2 +1,2 @@
 # virtual-school-tour
-This  vr project which is used to experience school immersively  
+This my  vr project which is used to experience schools based on rating immersively  
